@@ -7,8 +7,7 @@ This project is complex enough and incorporates a variety of data points: Google
 
 # Running
 
-* To see online - [Link to Portfolio site](https://zhandosgithub.github.io/)
-* To see locally - clone the [Project](https://github.com/ZhandosGitHub/ZhandosGitHub.github.io) from GitHub and run Index.html file
+* To see locally - clone the [Project](https://github.com/ZhandosGitHub/frontend-nanodegree-Neighborhood-Map) from GitHub and run Index.html file
 
 # Authors
 
