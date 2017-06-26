@@ -7,6 +7,8 @@ Some data for locations was taken from Foursquare API
 Author: Zhandos Ashibayev
 */
 
+/*jshint loopfunc: true */
+
 // array of locations, 5 beaches in Maui, with names and coordiantes
 var locations = [{
         name: 'Kapalua Bay',
