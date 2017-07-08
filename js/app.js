@@ -109,8 +109,8 @@ function initMap() {
 
     // create map object to display on site with specific coordinates
     map = new google.maps.Map(document.getElementById("map"), {
-        center: {lat: 20.8911, lng: -156.5047},
-        zoom: 11
+        center: {lat: 20.8911, lng: -156.3926},
+        zoom: 10
     });
 
     // create an InfoWindow object to attach to each marker
